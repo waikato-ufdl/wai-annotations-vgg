@@ -1,6 +1,10 @@
 # wai-annotations-vgg
 wai.annotations module for managing VGG object detection annotations.
 
+The manual is available here:
+
+https://ufdl.cms.waikato.ac.nz/wai-annotations-manual/
+
 ## Plugins
 ### FROM-VGG-OD
 Reads image object-detection annotations in the VGG JSON-format
